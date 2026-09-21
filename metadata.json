@@ -1,0 +1,6 @@
+{
+  "name": "EstateAI 房仲工作平台",
+  "description": "專為不動產仲介人員打造的 AI 案件分析與行銷工作平台，整合案件管理、外部資料匯入中心、20年資深顧問 AI 案件深度剖析與行銷文案生成",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
